@@ -1,5 +1,5 @@
-# Truzz Blogg - Youtube link: https://www.youtube.com/watch?v=KcjHfnCteZg
-# Speech recognition in Python ::: How to convert Speech to Text
+# Truzz Blogg - Youtube link: https://youtu.be/q-N6IcgCqCE
+# Speech recognition in Python ::: How to convert an Audio File to Text
 
 import speech_recognition as sr
 import time
